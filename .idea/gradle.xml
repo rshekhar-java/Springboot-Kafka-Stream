@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-stream-order" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="openjdk-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kafka-stream-order" />
@@ -14,10 +17,12 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-stream-pattern" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="openjdk-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kafka-stream-pattern" />
@@ -25,10 +30,12 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-stream-reward" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="openjdk-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kafka-stream-reward" />
@@ -36,10 +43,12 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-stream-sample" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="openjdk-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kafka-stream-sample" />
@@ -47,10 +56,12 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-stream-storage" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="openjdk-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/kafka-stream-storage" />
