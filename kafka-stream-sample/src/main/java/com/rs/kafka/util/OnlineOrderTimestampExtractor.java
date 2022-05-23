@@ -3,7 +3,7 @@ package com.rs.kafka.util;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.streams.processor.TimestampExtractor;
 
-import com.course.kafka.broker.message.OnlineOrderMessage;
+import com.rs.kafka.broker.message.OnlineOrderMessage;
 
 public class OnlineOrderTimestampExtractor implements TimestampExtractor {
 

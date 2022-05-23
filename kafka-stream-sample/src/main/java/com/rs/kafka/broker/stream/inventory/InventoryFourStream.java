@@ -8,8 +8,8 @@ import org.apache.kafka.streams.kstream.Produced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.kafka.support.serializer.JsonSerde;
 
-import com.course.kafka.broker.message.InventoryMessage;
-import com.course.kafka.util.InventoryTimestampExtractor;
+import com.rs.kafka.broker.message.InventoryMessage;
+import com.rs.kafka.util.InventoryTimestampExtractor;
 
 //@Configuration
 public class InventoryFourStream {

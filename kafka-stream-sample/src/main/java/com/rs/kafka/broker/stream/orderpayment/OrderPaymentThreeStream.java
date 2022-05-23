@@ -12,11 +12,11 @@ import org.apache.kafka.streams.kstream.StreamJoined;
 import org.springframework.context.annotation.Bean;
 import org.springframework.kafka.support.serializer.JsonSerde;
 
-import com.course.kafka.broker.message.OnlineOrderMessage;
-import com.course.kafka.broker.message.OnlineOrderPaymentMessage;
-import com.course.kafka.broker.message.OnlinePaymentMessage;
-import com.course.kafka.util.OnlineOrderTimestampExtractor;
-import com.course.kafka.util.OnlinePaymentTimestampExtractor;
+import com.rs.kafka.broker.message.OnlineOrderMessage;
+import com.rs.kafka.broker.message.OnlineOrderPaymentMessage;
+import com.rs.kafka.broker.message.OnlinePaymentMessage;
+import com.rs.kafka.util.OnlineOrderTimestampExtractor;
+import com.rs.kafka.util.OnlinePaymentTimestampExtractor;
 
 //@Configuration
 public class OrderPaymentThreeStream {
